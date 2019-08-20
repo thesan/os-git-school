@@ -23,18 +23,18 @@ main {
   padding: 0 1rem;
 }
 
-.home #HomeLink,
-.about #AboutLink,
-.contactus #ContactUsLink {
+.home #home-link,
+.about #about-link,
+.contactus #contact-us-link {
   border: solid 1px;
   border-radius: 50%;
 }
-.home #HomeLink {
+.home #home-link {
   border-color: #149;
 }
-.about #AboutLink {
+.about #about-link {
   border-color: #194;
 }
-.contactus #ContactUsLink {
+.contactus #contact-us-link {
   border-color: #914;
 }
